@@ -1,0 +1,8 @@
+Adornos del chat de Skyland (marcos de avatar y marcos de texto)
+
+Imágenes armadas a partir de:
+- Fluent Emoji, de Microsoft. Licencia MIT.
+  https://github.com/microsoft/fluentui-emoji
+  Copyright (c) Microsoft Corporation.
+  Se permite usar, copiar, modificar y distribuir, siempre que se mantenga este aviso.
+- Fantasy UI Borders, de Kenney (www.kenney.nl). Licencia CC0 (dominio público).
